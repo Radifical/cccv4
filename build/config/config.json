@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x90463826573196a94FdeCF05aB251992cBf7c422",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x90463826573196a94FdeCF05aB251992cBf7c422",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Coffee Cup Clubhouse",
+  "SYMBOL": "CCC",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/coffee-cup-club-v2",
+  "SHOW_BACKGROUND": true
+}
